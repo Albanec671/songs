@@ -1,0 +1,11 @@
+ДДТ (DDT) - ddt
+Гражданская Оборона (Civil Defense) - grob
+Александр Башлачёв (Alexander Bashlachev) - bashlachev
+Чайф (Chaif) - chaif
+Кино (Cinema) - kino
+Янка Дягилева (Yanka Dyagileva) - yanka
+Ят Ха (Yat Kha) - yatkha
+Русская народная музыка (Russian folk music) - russian
+Ally Kerr (Элли Керр) - ally_kerr
+Булат Окуджава (Bulat Okudzhava) - okudzhava
+Владимир Высоцкий (Vladimir Vysotsky) - vysotsky
